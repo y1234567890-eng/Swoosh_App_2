@@ -69,7 +69,8 @@
             android:text="@string/mens"
             android:textColor="@android:color/white"
             android:textOff="@string/mens"
-            android:textOn="@string/mens" />
+            android:textOn="@string/mens"
+            android:layout_width="match_parent" />
 
         <ToggleButton
             android:id="@+id/toggleButton2"
